@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "SilluBot45",
+    "password": "",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "vegathnaruto.aternos.me",
+    "port": 61164,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "pass123"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": false,
+      "repeat-delay": 10,
+
+      "messages": [
+        "Bot Should Be In Cage",
+        "Access Should be Given To Kingsillu Aur Pls Discord Pe Batado Ki Bot Randomly Move kar Raha Hai",
+        "This Bot Is Too Advenced Than Armabh Bot (Kyunki Goel Ne Mujhpe Viswas karke Server Ka Acces Diye Sot Thanku Goel)"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1000
+  
+  }
+}
